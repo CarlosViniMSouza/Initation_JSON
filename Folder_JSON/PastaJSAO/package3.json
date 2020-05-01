@@ -1,0 +1,12 @@
+{
+  "matéria" : "Entre com o nome da disciplina: ",
+  "nome" : "Entre com o nome: ",
+  "codigo" : "Entre com o codigo: ",
+  
+  "nota_1" : "Entre com nota: ",
+  "nota_2" : "Entre com nota:",
+  "nota_3" : "Entre com nota:",
+  "MediaFinal" : "nota_1 + nota_2 + nota_3"
+}
+  /*Tudo que possa ser inserido sera aplicada a uma 
+  Operacao Matematica.*/

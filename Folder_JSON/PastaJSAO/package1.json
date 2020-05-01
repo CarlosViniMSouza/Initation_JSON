@@ -1,0 +1,11 @@
+{
+  "País" : "Brasil",
+  "Sigla" : "BR",
+  "PIB" : "US$212.4 bi.",
+  "NID" : 9450,
+  "População" : {
+    "Brancos(%)" : 54,
+    "Negros(%)" : 24,
+    "Outros(%)" : 22
+  }
+}

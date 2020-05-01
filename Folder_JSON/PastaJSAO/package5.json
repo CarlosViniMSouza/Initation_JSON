@@ -1,0 +1,21 @@
+{
+  "formato": 1,
+  "endereco_proj1": {
+    "C:\\Users\\user\\user.csproj": {}
+  },
+  "projeto": {
+    "C:\\Users\\user\\user.csproj": {
+      "versao": "(...)",
+      "endereco_proj1": {
+        "projetoUniqueName": "(...)",
+        "projetoName": "(...)",
+        "projetoPath": "C:\\Users\\user\\user.csproj",
+        "packagesPath": "(...)",
+        "originalTargetFrameworks": [
+          "(...)"
+        ]
+          }
+        }
+      },
+    "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+  }

@@ -1,0 +1,17 @@
+// Codigo de Matricula e Senhas.
+{
+  "aluno_matriculado" : [
+    "Nome",
+    "Codigo",
+    "Data_Nasc",
+    "Curso",
+    "Senha",
+    "Senha_conf"
+  ],
+
+  "especifico" : {
+    "Nome do Pai" : "(...)",
+    "Nome da Mae" : "(...)",
+    "Nome de Solteiro" : "(...)"
+  }
+}

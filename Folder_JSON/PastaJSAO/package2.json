@@ -1,0 +1,32 @@
+{
+  "fruta_1" : "maçã",
+  "preço_1" : 3.45,
+  "tipos_1" : [
+    "verde",
+    "vermelha",
+    "roxa",
+    "seca"
+  ],
+
+  "fruta_2" : "banana",
+  "preço_2" : 1.6,
+  "tipos_2" : [
+    "verde",
+    "desidratada",
+    "roxa",
+    "seca",
+    "nanica",
+    "caramelizada"
+  ],
+
+  "fruta_3": "pêra",
+  "preço_3" : 2.25,
+  "tipos_3" : [
+    "verde",
+    "vermelha",
+    "amarela",
+    "seca",
+    "portuguesa",
+    "francesa"
+  ]
+}
